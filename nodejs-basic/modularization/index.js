@@ -19,3 +19,6 @@ const tiger = new Tiger();
 const wolf = new Wolf();
  
 fighting(tiger, wolf);
+
+// Execute using :
+// node ./modularization/index.js 
