@@ -2,4 +2,4 @@ Check the server using this code :
 netstat -ano | findstr :5000
 
 Terminate the server to restart server :
-taskkill /PID 64280 /F # Ganti sesuaikan nilai 64280 menggunakan nilai yang tertera pada saat cek server
+taskkill /PID 64280 /F #Ganti sesuaikan nilai 64280 menggunakan nilai yang tertera pada saat cek server
