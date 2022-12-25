@@ -1,0 +1,6 @@
+Bila terdapat kendala pada chrome ketika mengakses request,
+contohnya ketika terdapat pesan error fetch maka yang dilakukan adalah
+1. Masuk ke halaman chrome://flags/#block-insecure-private-network-requests
+2. Pada pilihan 'Block insecure private network requests'
+3. Pilih Disable
+4. And done
