@@ -4,3 +4,4 @@ contohnya ketika terdapat pesan error fetch maka yang dilakukan adalah
 2. Pada pilihan 'Block insecure private network requests'
 3. Pilih Disable
 4. And done
+"You can check using cmd"
