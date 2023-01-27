@@ -14,5 +14,8 @@
     "backend"
   ],
   "author": "Abid Juliant Indraswara",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^4.0.0"
+  }
 }
